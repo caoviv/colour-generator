@@ -1,5 +1,5 @@
 // Variables 
-const colours = ["green", "red", "rgba(133,122,200)", "#f15025"];
+const colours = ["#6667AB", "#939597", "#0f4c81", "#ff6f61"];
 const btn = document.getElementById('btn');
 const colour = document.querySelector('.colour');
 
