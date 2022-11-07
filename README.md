@@ -1,7 +1,9 @@
 # Colour Generator
 This webpage has two options.
+
 The first cycling through Pantones colour of the year from 2000-2022
 The second is a hex colour generator.
+
 This was a good project to start working with the DOM.
 
 In Leonardo Maldonado's article on why it is important to learn about the DOM, he states:
