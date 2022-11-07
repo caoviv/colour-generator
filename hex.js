@@ -12,8 +12,12 @@ function generateHex() {
     for (let i=0; i<6; i++) {
         hexColour += hex[getRandomNumber()]
     }
+    // set text to colour hex 
     colourHex.textContent = hexColour;
+    // set background to featuring colour
     document.body.style.backgroundColor = hexColour;
+    // set title colour to the featuring colour
+    document.querySelector('.title').style.color = hexColour;
 }
 
 function getRandomNumber() {
