@@ -2,6 +2,7 @@
 This webpage has two options.
 
 The first cycling through Pantones colour of the year from 2000-2022.
+
 The second is a hex colour generator.
 
 This was a good project to start working with the DOM.
