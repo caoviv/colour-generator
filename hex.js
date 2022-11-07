@@ -1,7 +1,7 @@
 // Variables
 const hex = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, "A", "B", "C", "D", "E", "F"];
 const btn = document.getElementById('btn');
-const colour = document.querySelector('.colour');
+const colourHex = document.querySelector('.hex');
 
 // Event Listeners 
 btn.addEventListener("click", generateHex);
@@ -12,7 +12,7 @@ function generateHex() {
     for (let i=0; i<6; i++) {
         hexColour += hex[getRandomNumber()]
     }
-    colour.textContent = hexColour;
+    colourHex.textContent = hexColour;
     document.body.style.backgroundColor = hexColour;
 }
 
