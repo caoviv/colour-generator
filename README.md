@@ -1,4 +1,4 @@
-# Colour Generator
+# Colour Generator - [website](vc-colour-generator.netlify.app)  
 This webpage has two options.
 
 The first cycling through Pantones colour of the year from 2000-2022.
